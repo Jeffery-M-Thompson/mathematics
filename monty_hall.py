@@ -4,7 +4,7 @@ import numpy as np
 import random as rd
 
 n = 0
-mn = int(1E9)
+mn = int(1E6)
 
 keepwin = 0
 changewin = 0
